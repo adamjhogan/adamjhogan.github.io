@@ -79,6 +79,6 @@ Service and leadership
 Licenses and Certifications
 ======
 * American Speech-Language-Hearing Association Certificate of Clinical Competence (2005‒Present; #12122927)
-* Louisiana License of Speech-Language Pathology (2005‒2008; 2-1-‒Present; #5429)
+* Louisiana License of Speech-Language Pathology (2005‒2008; 2010‒Present; #5429)
 * Louisiana Ancillary Certificate of Education (2005-Present; #AN 441707)
 * Texas License of Speech-Language Pathology (2009-2011; #103982)
