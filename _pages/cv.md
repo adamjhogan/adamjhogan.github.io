@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Speech-Language Pathology, Louisiana State University, 2025 (expected)
+* Ph.D. in Speech-Language Pathology, Louisiana State University, 2025 (expected)
   * Dissertation to address bilingual speech perception
 * M.A. in Speech-Language Pathology, Louisiana State University, 20044
 * B.A. in Communication Sciences and Disorders, Louisiana State University, 2002
@@ -48,12 +48,6 @@ Work experience
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -61,18 +55,17 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Talks
+Presentations
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 Service and leadership
 ======
 * Clinical supervision of graduate students in speech-language pathology (2017‒2021)
+
+Licenses and Certifications
+======
+* American Speech-Language-Hearing Association Certificate of Clinical Competence #12122927 (2005‒Present)
+* Louisiana Board of Examiners for Speech-Language Pathology and Audiology License #5429 (2010‒Present; 2005‒2008)
