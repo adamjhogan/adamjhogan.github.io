@@ -46,20 +46,31 @@ Work experience
   * East Baton Rouge Parish School System
   * Baton Rouge, LA
 
-Skills
-======
-
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **Hogan, A. J.**, Gibson, T.A. (In preparation). Factors influencing perception of lexical stress among monolingual English listeners.
+* **Hogan, A. J.**, Gibson, T. A., & Luong, V. (In revision). Speech production in Vietnamese-English bilingual speakers living in a 3-generation home. *International Journal of Bilingual Education and Bilingualism*.
 
 Presentations
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* **Hogan, A. J.** (2023, November). Multigenerational Vietnamese-English Speech Sound Accuracy: A Case Study. American Speech-Language-Hearing Association National Convention, Boston, MA.
+* **Hogan, A. J.** & Chung, H. (2022, April 9). Korean-English bilingual speakers' productions of English /l/. International Symposium on Monolingual and Bilingual Speech (ISMBS), University of Louisiana at Lafayette, Lafayette, LA.
+* **Hogan, A. J.** (2009). Free and Open Source Assistive Technology Solutions. International Educational Tools for Success Conference, University of Louisiana at Monroe, Monroe, LA.
+* **Hogan, A. J.** (2008). Assistive Technology in the Classroom. International Educational Tools for Success Conference, University of Louisiana at Monroe, Monroe, LA.
+
+Staff Development Workshops Presented
+======
+* Graphemes and Their Associated Phonemes, Zachary Community School District (Spring 2020)
+* Augmentative and Alternative Communication Solutions, East Baton Rouge Parish School System (Summer 2011)
+* Spontaneous Novel Utterance Generation, Humble Independent School District (Summer 2010)
+* Core and Fringe Vocabulary, Humble Independent School District (Summer 2009)
+* Free and Open Source Assistive Technology in the Classroom, Humble Independent School District (Summer 2008)
+* Augmentative and Alternative Communication Solutions, East Baton Rouge Parish School System (Summer 2007)
+* Augmentative and Alternative Communication Solutions, East Baton Rouge Parish School System (Summer 2006)
+
+Invited Guest Lectures
+======
+* Early Communicative Intervention, Invited Guest Lecturer, Dept. of Communication Sciences and Disorders, Louisiana State University (Fall 2011)
 
 Service and leadership
 ======
@@ -67,5 +78,7 @@ Service and leadership
 
 Licenses and Certifications
 ======
-* American Speech-Language-Hearing Association Certificate of Clinical Competence #12122927 (2005‒Present)
-* Louisiana Board of Examiners for Speech-Language Pathology and Audiology License #5429 (2010‒Present; 2005‒2008)
+* American Speech-Language-Hearing Association Certificate of Clinical Competence (2005‒Present; #12122927)
+* Louisiana License of Speech-Language Pathology (2005‒2008; 2-1-‒Present; #5429)
+* Louisiana Ancillary Certificate of Education (2005-Present; #AN 441707)
+* Texas License of Speech-Language Pathology (2009-2011; #103982)
