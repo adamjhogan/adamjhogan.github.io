@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D. in Speech-Language Pathology, Louisiana State University, 2025 (expected)
   * Dissertation to address bilingual speech perception
-* M.A. in Speech-Language Pathology, Louisiana State University, 20044
+* M.A. in Speech-Language Pathology, Louisiana State University, 2004
 * B.A. in Communication Sciences and Disorders, Louisiana State University, 2002
 
 Work experience
