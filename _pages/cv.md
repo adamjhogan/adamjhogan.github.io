@@ -72,7 +72,7 @@ Invited Guest Lectures
 ======
 * Early Communicative Intervention, Invited Guest Lecturer, Dept. of Communication Sciences and Disorders, Louisiana State University (Fall 2011)
 
-Service and leadership
+Service
 ======
 * Clinical supervision of graduate students in speech-language pathology (2017‒2021)
 
