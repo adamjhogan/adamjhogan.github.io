@@ -48,8 +48,7 @@ Work experience
 
 Publications
 ======
-* **Hogan, A. J.**, Gibson, T.A. (In preparation). Factors influencing perception of lexical stress among monolingual English listeners.
-* **Hogan, A. J.**, Gibson, T. A., & Luong, V. (In revision). Speech production in Vietnamese-English bilingual speakers living in a 3-generation home. *International Journal of Bilingual Education and Bilingualism*.
+* **Hogan, A. J.**, Gibson, T. A., & Luong, V. (Revise and Resubmit). Speech production in Vietnamese-English bilingual speakers living in a 3-generation home. *International Journal of Bilingual Education and Bilingualism*.
 
 Presentations
 ======
@@ -70,6 +69,7 @@ Staff Development Workshops Presented
 
 Invited Guest Lectures
 ======
+* Treatment Principles for Speech Sound Disorders, Invited Guest Lecture, Dept. of Communication Sciences and Disorders, Louisiana State University (Spring 2024)
 * Early Communicative Intervention, Invited Guest Lecturer, Dept. of Communication Sciences and Disorders, Louisiana State University (Fall 2011)
 
 Service
