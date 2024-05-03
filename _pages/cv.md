@@ -48,7 +48,7 @@ Work experience
 
 Publications
 ======
-* **Hogan, A. J.**, Gibson, T. A., & Luong, V. (Revise and Resubmit). Speech production in Vietnamese-English bilingual speakers living in a 3-generation home. *International Journal of Bilingual Education and Bilingualism*.
+* **Hogan, A. J.**, Gibson, T. A., & Luong, V. (in press). Speech production in Vietnamese-English bilingual speakers living in a 3-generation home. *International Journal of Bilingual Education and Bilingualism*.
 
 Presentations
 ======
@@ -59,26 +59,28 @@ Presentations
 
 Staff Development Workshops Presented
 ======
-* Graphemes and Their Associated Phonemes, Zachary Community School District (Spring 2020)
-* Augmentative and Alternative Communication Solutions, East Baton Rouge Parish School System (Summer 2011)
-* Spontaneous Novel Utterance Generation, Humble Independent School District (Summer 2010)
-* Core and Fringe Vocabulary, Humble Independent School District (Summer 2009)
-* Free and Open Source Assistive Technology in the Classroom, Humble Independent School District (Summer 2008)
-* Augmentative and Alternative Communication Solutions, East Baton Rouge Parish School System (Summer 2007)
-* Augmentative and Alternative Communication Solutions, East Baton Rouge Parish School System (Summer 2006)
+* Graphemes and Their Associated Phonemes, Zachary Community School District, Spring 2020
+* Augmentative and Alternative Communication Solutions, East Baton Rouge Parish School System, Summer 2011
+* Spontaneous Novel Utterance Generation, Humble Independent School District, Summer 2010
+* Core and Fringe Vocabulary, Humble Independent School District, Summer 2009
+* Free and Open Source Assistive Technology in the Classroom, Humble Independent School District, Summer 2008
+* Augmentative and Alternative Communication Solutions, East Baton Rouge Parish School System, Summer 2007
+* Augmentative and Alternative Communication Solutions, East Baton Rouge Parish School System, Summer 2006
 
 Invited Guest Lectures
 ======
-* Treatment Principles for Speech Sound Disorders, Invited Guest Lecture, Dept. of Communication Sciences and Disorders, Louisiana State University (Spring 2024)
-* Early Communicative Intervention, Invited Guest Lecturer, Dept. of Communication Sciences and Disorders, Louisiana State University (Fall 2011)
+* Treatment Principles for Speech Sound Disorders, Invited Guest Lecture, Dept. of Communication Sciences and Disorders, Louisiana State University, Spring 2024
+* Early Communicative Intervention, Invited Guest Lecturer, Dept. of Communication Sciences and Disorders, Louisiana State University, Fall 2011
 
 Service
 ======
-* Clinical supervision of graduate students in speech-language pathology (2017‒2021)
+* Invited Judge, LSU Discover Day 2024: Undergraduate Research & Creativity Conference, Louisiana State University, April 2024
+* Invited Panelist, Pursuing Graduate Education, Louisiana State University, February 2024
+* Clinical Supervision, Zachary Community Schools, 2017‒2021
 
 Licenses and Certifications
 ======
 * American Speech-Language-Hearing Association Certificate of Clinical Competence (2005‒Present; #12122927)
 * Louisiana License of Speech-Language Pathology (2005‒2008; 2010‒Present; #5429)
 * Louisiana Ancillary Certificate of Education (2005-Present; #AN 441707)
-* Texas License of Speech-Language Pathology (2009-2011; #103982)
+* Texas License of Speech-Language Pathology (2008-2011; #103982)
