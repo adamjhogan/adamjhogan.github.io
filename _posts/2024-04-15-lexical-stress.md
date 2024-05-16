@@ -32,4 +32,4 @@ lexical stress and providing a 300-word summary.
 
 If you qualify and are interested, please [sign up](https://doodle.com/sign-up-sheet/organize/9ba8da48-c385-4390-b104-7fd78850c0d5). Please contact Adam J. Hogan, MA, CCC-SLP at ahoga15@lsu.edu or Todd A. Gibson, PhD, CCC-SLP at toddandrewgibson@lsu.edu for more details.
 
-[Sign-up QR Code](/images/qrcode_doodle.com.png)
+![Sign-up QR Code](/images/qrcode_doodle.com.png)
