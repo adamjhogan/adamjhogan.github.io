@@ -1,5 +1,6 @@
 ---
 title: "2024 Lexical Stress Study"
+date: 2024-04-15
 permalink: /posts/2024/04/lexical_stress
 author_profile: true
 ---
