@@ -1,13 +1,12 @@
-layout: archive
 title: "2024 Lexical Stress Study"
-permalink: /2024_lexical_stress/
+permalink: /posts/2024/04/lexical_stress
 author_profile: true
 ---
 
 **Research Study Announcement**
- 
+
 **Monolingual and Bilingual Lexical Stress Study**
- 
+
 **Subject Inclusion Criteria**
 * Monolingual English Speakers
 * Second-language learners of English (at least intermediate level of proficiency)
