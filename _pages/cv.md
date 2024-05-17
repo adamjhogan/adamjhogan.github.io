@@ -48,7 +48,7 @@ Work experience
 
 Publications
 ======
-* **Hogan, A. J.**, Gibson, T. A., & Luong, V. (in press). Speech production in Vietnamese-English bilingual speakers living in a 3-generation home. *International Journal of Bilingual Education and Bilingualism*.
+* **Hogan, A. J.**, Gibson, T. A., & Luong, V. (2024). Speech production in Vietnamese-English bilingual speakers living in a 3-generation home. *International Journal of Bilingual Education and Bilingualism*, 1–15. https://www.tandfonline.com/doi/full/10.1080/13670050.2024.2355533
 
 Presentations
 ======
@@ -84,3 +84,6 @@ Licenses and Certifications
 * Louisiana License of Speech-Language Pathology (2005‒2008; 2010‒Present; #5429)
 * Louisiana Ancillary Certificate of Education (2005-Present; #AN 441707)
 * Texas License of Speech-Language Pathology (2008-2011; #103982)
+
+======
+Updated 2024-05-17
