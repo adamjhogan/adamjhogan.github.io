@@ -85,5 +85,5 @@ Licenses and Certifications
 * Louisiana Ancillary Certificate of Education (2005-Present; #AN 441707)
 * Texas License of Speech-Language Pathology (2008-2011; #103982)
 
-======
-Updated 2024-05-17
+
+(Updated 2024-05-17)
