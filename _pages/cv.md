@@ -48,7 +48,7 @@ Work experience
 
 Publications
 ======
-* **Hogan, A. J.**, Gibson, T. A., & Luong, V. (2024). Speech production in Vietnamese-English bilingual speakers living in a 3-generation home. *International Journal of Bilingual Education and Bilingualism*, 1–15. https://www.tandfonline.com/doi/full/10.1080/13670050.2024.2355533
+* **Hogan, A. J.**, Gibson, T. A., & Luong, V. (2024). Speech production in Vietnamese-English bilingual speakers living in a 3-generation home. *International Journal of Bilingual Education and Bilingualism*, 1–15. <https://www.tandfonline.com/doi/full/10.1080/13670050.2024.2355533>
 
 Presentations
 ======
