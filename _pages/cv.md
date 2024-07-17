@@ -76,7 +76,7 @@ Teaching Experience
 
 Invited Guest Lectures
 ======
-* Treatment Principles for Speech Sound Disorders, Invited Guest Lecture, Dept. of Communication Sciences and Disorders, Louisiana State University, Spring 2024
+* Treatment Principles for Speech Sound Disorders, Invited Guest Lecturer, Dept. of Communication Sciences and Disorders, Louisiana State University, Spring 2024
 * Early Communicative Intervention, Invited Guest Lecturer, Dept. of Communication Sciences and Disorders, Louisiana State University, Fall 2011
 
 Service
