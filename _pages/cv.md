@@ -20,7 +20,7 @@ Work experience
 ======
 * Fall 2021 to Present: Graduate Teaching Assistant
   * Louisiana State University
-  * Undergraduate Acoustics Lab Instructor
+  * Baton Rouge, LA
 
 * 2019‒2021: Speech-Language Pathologist
   * Zachary Community School District
@@ -66,6 +66,13 @@ Staff Development Workshops Presented
 * Free and Open Source Assistive Technology in the Classroom, Humble Independent School District, Summer 2008
 * Augmentative and Alternative Communication Solutions, East Baton Rouge Parish School System, Summer 2007
 * Augmentative and Alternative Communication Solutions, East Baton Rouge Parish School System, Summer 2006
+
+Teaching Experience
+======
+  * Graduate Teaching Assistant, Fall 2021–Present
+    * Research Design, Summer 2024
+    * Speech Acoustics, Fall 2021–Present
+  * Undergraduate Speech Acoustics Lab Instructor, Fall 2021–Present
 
 Invited Guest Lectures
 ======
