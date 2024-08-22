@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="https://lsumail2-my.sharepoint.com/personal/ahoga15_lsu_edu/_layouts/15/embed.aspx?UniqueId=d76682f5-5e6d-476e-8756-94a8a32b63a1" width="1000" height="800" frameborder="0" scrolling="no" allowfullscreen title="hogan_cv"></iframe>
+<object data="https://lsumail2-my.sharepoint.com/personal/ahoga15_lsu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fahoga15%5Flsu%5Fedu%2FDocuments%2Fpersonal%2Fhogan%5Fcv%2Epdf&parent=%2Fpersonal%2Fahoga15%5Flsu%5Fedu%2FDocuments%2Fpersonal&ga=1" type="application/pdf" width="100%" height="500px">
