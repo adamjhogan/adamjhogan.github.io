@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at Louisiana State University studying speech perception and production among monolingual and bilingual populations. I am interested in the segmental and suprasegmental features of bilingual phonetics and phonology with a special interest in the perception of lexical stress and its role in lexical access.
+I am an assistant professor at Auburn University studying speech perception and production among monolingual and bilingual populations. I am interested in the segmental and suprasegmental features of bilingual phonetics and phonology with a special interest in the perception of lexical stress and its role in lexical access.
 
 
 My research interests draw from my personal interest in language learning as well as from rich experiences I amassed as a school-based speech-language pathologist (SLP) and assistive technology support specialist in Louisiana and Texas. During my 16-year career as an SLP, I regularly worked with children from diverse linguistic backgrounds. Many of these children and their families spoke languages that I did not. My training and the available research did not always prepare me to address their needs.
