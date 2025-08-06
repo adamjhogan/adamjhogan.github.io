@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Adam J. Hogan, MA, CCC-SLP"
+title                    : "Adam J. Hogan, Ph.D, CCC-SLP"
 title_separator          : "-"
 name                     : &name "Adam J. Hogan"
 description              : &description "A simple website"
@@ -22,13 +22,13 @@ repository               : "adamjhogan/adamjhogan.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Adam J. Hogan, MA, CCC-SLP"
+  name             : "Adam J. Hogan, Ph.D, CCC-SLP"
   pronouns         : # example: "she/her"
-  bio              : "Ph.D. candidate studying speech perception and production among monolingual and bilingual populations"
-  location         : "Baton Rouge, LA"
-  employer         : "Louisiana State University"
+  bio              : "Assistant Professor studying speech perception and production among monolingual and bilingual populations"
+  location         : "Auburn, AL"
+  employer         : "Auburn University"
   uri              : # URL
-  email            : "ahoga15@lsu.edu"
+  email            : "adamjhoga@auburn.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
